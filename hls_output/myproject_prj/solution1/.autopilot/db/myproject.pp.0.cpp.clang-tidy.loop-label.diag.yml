@@ -1,0 +1,1201 @@
+---
+MainSourceFile:  /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+Diagnostics:     
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_676_1:  '
+    FileOffset:      676
+    FilePath:        /tools/Xilinx/Vitis/2024.2/common/technology/autopilot/etc/ap_int_ref.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          1012205
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_676_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_690_1:  '
+    FileOffset:      690
+    FilePath:        /tools/Xilinx/Vitis/2024.2/common/technology/autopilot/etc/ap_int_ref.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          1012675
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_690_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_704_1:  '
+    FileOffset:      704
+    FilePath:        /tools/Xilinx/Vitis/2024.2/common/technology/autopilot/etc/ap_int_ref.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          1013146
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_704_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_1248_1:  '
+    FileOffset:      1248
+    FilePath:        /tools/Xilinx/Vitis/2024.2/common/technology/autopilot/etc/ap_fixed_base.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          1296786
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_1248_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_27_1:  '
+    FileOffset:      27
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_types.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          1670936
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_27_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_265_1:  '
+    FileOffset:      265
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2349531
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_265_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_275_1:  '
+    FileOffset:      275
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2349918
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_275_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_286_1:  '
+    FileOffset:      286
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2350253
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_286_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_293_1:  '
+    FileOffset:      293
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2350476
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_293_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_295_2:  '
+    FileOffset:      295
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2350571
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_295_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_307_1:  '
+    FileOffset:      307
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2350935
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_307_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_309_2:  '
+    FileOffset:      309
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2351017
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_309_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_324_1:  '
+    FileOffset:      324
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2351360
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_324_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_344_1:  '
+    FileOffset:      344
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2351813
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_344_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_345_2:  '
+    FileOffset:      345
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2351858
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_345_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_360_1:  '
+    FileOffset:      360
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2352267
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_360_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_367_1:  '
+    FileOffset:      367
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2352480
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_367_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_31_1:  '
+    FileOffset:      31
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2355590
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_31_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_43_1:  '
+    FileOffset:      43
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2355843
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_43_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_57_1:  '
+    FileOffset:      57
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2356204
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_57_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_84_1:  '
+    FileOffset:      84
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2357020
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_84_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_114_1:  '
+    FileOffset:      114
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2357681
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_114_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_151_1:  '
+    FileOffset:      151
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2358815
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_151_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_162_1:  '
+    FileOffset:      162
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2359177
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_162_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_195_1:  '
+    FileOffset:      195
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2360080
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_195_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_209_2:  '
+    FileOffset:      209
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2360599
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_209_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_243_1:  '
+    FileOffset:      243
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2361439
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_243_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_252_2:  '
+    FileOffset:      252
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2361709
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_252_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_266_3:  '
+    FileOffset:      266
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2362233
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_266_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_273_1:  '
+    FileOffset:      273
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2362467
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_273_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_286_1:  '
+    FileOffset:      286
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2362827
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_286_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_323_1:  '
+    FileOffset:      323
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2363756
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_323_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_328_2:  '
+    FileOffset:      328
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2363873
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_328_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_329_3:  '
+    FileOffset:      329
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2363927
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_329_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_346_4:  '
+    FileOffset:      346
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2364508
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_346_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_359_1:  '
+    FileOffset:      359
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2364995
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_359_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_367_2:  '
+    FileOffset:      367
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2365136
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_367_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_402_1:  '
+    FileOffset:      402
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2366101
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_402_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_432_1:  '
+    FileOffset:      432
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2366738
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_432_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_451_1:  '
+    FileOffset:      451
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2367251
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_451_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_467_1:  '
+    FileOffset:      467
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2367709
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_467_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_485_1:  '
+    FileOffset:      485
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2368163
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_485_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_502_1:  '
+    FileOffset:      502
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2368550
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_502_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_519_1:  '
+    FileOffset:      519
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2368945
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_519_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_549_1:  '
+    FileOffset:      549
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2369611
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_549_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_568_1:  '
+    FileOffset:      568
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2370185
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_568_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_598_1:  '
+    FileOffset:      598
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2370851
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_598_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_617_1:  '
+    FileOffset:      617
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2371405
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_617_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_647_1:  '
+    FileOffset:      647
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2372037
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_647_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_674_1:  '
+    FileOffset:      674
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2372863
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_674_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_703_1:  '
+    FileOffset:      703
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2373481
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_703_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_724_1:  '
+    FileOffset:      724
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2374092
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_724_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_742_1:  '
+    FileOffset:      742
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2374481
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_742_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_762_1:  '
+    FileOffset:      762
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2374877
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_762_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_73_1:  '
+    FileOffset:      73
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2376953
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_73_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_80_2:  '
+    FileOffset:      80
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2377093
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_80_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_89_3:  '
+    FileOffset:      89
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2377358
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_89_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_98_4:  '
+    FileOffset:      98
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2377552
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_98_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_102_5:  '
+    FileOffset:      102
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2377645
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_102_5: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_113_6:  '
+    FileOffset:      113
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2377971
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_113_6: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_117_7:  '
+    FileOffset:      117
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2378081
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_117_7: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_141_1:  '
+    FileOffset:      141
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2379047
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_141_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_145_2:  '
+    FileOffset:      145
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2379133
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_145_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_164_1:  '
+    FileOffset:      164
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2379809
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_164_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_187_1:  '
+    FileOffset:      187
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2380741
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_187_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_190_2:  '
+    FileOffset:      190
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2380879
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_190_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_195_3:  '
+    FileOffset:      195
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2381029
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_195_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_199_4:  '
+    FileOffset:      199
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2381153
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_199_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_213_1:  '
+    FileOffset:      213
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation_stream.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2386988
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_213_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_222_2:  '
+    FileOffset:      222
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation_stream.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2387272
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_222_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_328_1:  '
+    FileOffset:      328
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation_stream.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2390485
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_328_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_333_2:  '
+    FileOffset:      333
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation_stream.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2390627
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_333_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_341_3:  '
+    FileOffset:      341
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_activation_stream.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2390831
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_341_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_64_1:  '
+    FileOffset:      64
+    FilePath:        /tools/Xilinx/Vitis/2024.2/common/technology/autopilot/ap_shift_reg.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2426787
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_64_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_71_1:  '
+    FileOffset:      71
+    FilePath:        /tools/Xilinx/Vitis/2024.2/common/technology/autopilot/ap_shift_reg.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2426991
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_71_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_14_1:  '
+    FileOffset:      14
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_dense_compressed.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2443930
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_14_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_74_1:  '
+    FileOffset:      74
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_dense_compressed.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2445801
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_74_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_27_1:  '
+    FileOffset:      27
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_image.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2450764
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_27_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_28_2:  '
+    FileOffset:      28
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_image.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2450821
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_28_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_31_3:  '
+    FileOffset:      31
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_image.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2450961
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_31_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_20_1:  '
+    FileOffset:      20
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2453523
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_20_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_21_2:  '
+    FileOffset:      21
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2453576
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_21_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_25_3:  '
+    FileOffset:      25
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2453668
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_25_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_29_4:  '
+    FileOffset:      29
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2453777
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_29_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_39_1:  '
+    FileOffset:      39
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2454072
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_39_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_40_2:  '
+    FileOffset:      40
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2454127
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_40_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_45_3:  '
+    FileOffset:      45
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2454219
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_45_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_46_4:  '
+    FileOffset:      46
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2454274
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_46_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_51_5:  '
+    FileOffset:      51
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2454383
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_51_5: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_52_6:  '
+    FileOffset:      52
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2454439
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_52_6: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_75_1:  '
+    FileOffset:      75
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2455194
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_75_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_77_2:  '
+    FileOffset:      77
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2455248
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_77_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_78_3:  '
+    FileOffset:      78
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2455306
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_78_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_83_4:  '
+    FileOffset:      83
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2455417
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_83_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_84_5:  '
+    FileOffset:      84
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2455477
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_84_5: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_87_6:  '
+    FileOffset:      87
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2455580
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_87_6: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_90_7:  '
+    FileOffset:      90
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2455700
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_90_7: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_95_8:  '
+    FileOffset:      95
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2455811
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_95_8: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_96_9:  '
+    FileOffset:      96
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2455872
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_96_9: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_108_1:  '
+    FileOffset:      108
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2456248
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_108_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_109_2:  '
+    FileOffset:      109
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2456302
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_109_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_110_3:  '
+    FileOffset:      110
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2456362
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_110_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_116_4:  '
+    FileOffset:      116
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2456472
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_116_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_117_5:  '
+    FileOffset:      117
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2456528
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_117_5: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_118_6:  '
+    FileOffset:      118
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2456587
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_118_6: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_122_7:  '
+    FileOffset:      122
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2456694
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_122_7: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_123_8:  '
+    FileOffset:      123
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2456753
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_123_8: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_127_9:  '
+    FileOffset:      127
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2456877
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_127_9: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_128_10:  '
+    FileOffset:      128
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2456937
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_128_10: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_134_11:  '
+    FileOffset:      134
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2457047
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_134_11: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_135_12:  '
+    FileOffset:      135
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2457104
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_135_12: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_136_13:  '
+    FileOffset:      136
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2457164
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_136_13: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_11_1:  '
+    FileOffset:      11
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding_stream.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2457679
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_11_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_22_1:  '
+    FileOffset:      22
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_padding_stream.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2457996
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_22_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_13_1:  '
+    FileOffset:      13
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_pooling.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2459741
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_13_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_22_1:  '
+    FileOffset:      22
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_pooling.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2459928
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_22_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_34_1:  '
+    FileOffset:      34
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_pooling.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2460179
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_34_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_46_1:  '
+    FileOffset:      46
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_pooling.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2460362
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_46_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_114_1:  '
+    FileOffset:      114
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_pooling.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2462004
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_114_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_116_2:  '
+    FileOffset:      116
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_pooling.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2462061
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_116_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_121_3:  '
+    FileOffset:      121
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_pooling.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2462228
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_121_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_155_1:  '
+    FileOffset:      155
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_pooling.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2463650
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_155_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_157_2:  '
+    FileOffset:      157
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_pooling.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2463743
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_157_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_211_1:  '
+    FileOffset:      211
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_pooling.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2465909
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_211_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_213_2:  '
+    FileOffset:      213
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_pooling.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2465966
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_213_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_215_3:  '
+    FileOffset:      215
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_pooling.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2466049
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_215_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_220_4:  '
+    FileOffset:      220
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_pooling.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2466252
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_220_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_222_5:  '
+    FileOffset:      222
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_pooling.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2466328
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_222_5: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_270_1:  '
+    FileOffset:      270
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_pooling.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2468862
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_270_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_272_2:  '
+    FileOffset:      272
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_pooling.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2468919
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_272_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_274_3:  '
+    FileOffset:      274
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_pooling.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2469002
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_274_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_279_4:  '
+    FileOffset:      279
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_pooling.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2469205
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_279_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_281_5:  '
+    FileOffset:      281
+    FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/firmware/nnet_utils/nnet_pooling.h
+    Replacements:    
+      - FilePath:        /mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2469281
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_281_5: '
+...

@@ -1,0 +1,665 @@
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:29313:5: warning: Added loop label VITIS_LOOP_676_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high+1; ++i) {
+    ^~~
+    VITIS_LOOP_676_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:29313:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:29327:5: warning: Added loop label VITIS_LOOP_690_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high+1; ++i) {
+    ^~~
+    VITIS_LOOP_690_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:29327:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:29341:5: warning: Added loop label VITIS_LOOP_704_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high+1; ++i) {
+    ^~~
+    VITIS_LOOP_704_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:29341:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:30963:7: warning: Added loop label VITIS_LOOP_1248_1:   [xilinx-label-all-loops]
+      for (i = 0; i < __N - 1; ++i) {
+      ^~~
+      VITIS_LOOP_1248_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:30963:7: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:32950:9: warning: Added loop label VITIS_LOOP_27_1:   [xilinx-label-all-loops]
+        for (unsigned i = 0; i < N; i++) {
+        ^~~
+        VITIS_LOOP_27_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:32950:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56143:5: warning: Added loop label VITIS_LOOP_265_1:   [xilinx-label-all-loops]
+    for (typename std::vector<src_T>::const_iterator i = in_begin; i != in_end; ++i) {
+    ^~~
+    VITIS_LOOP_265_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56143:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56153:5: warning: Added loop label VITIS_LOOP_275_1:   [xilinx-label-all-loops]
+    for (auto i = 0; i < SIZE; i++)
+    ^~~
+    VITIS_LOOP_275_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56153:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56164:5: warning: Added loop label VITIS_LOOP_286_1:   [xilinx-label-all-loops]
+    for (int i = 0; i < SIZE; i++) {
+    ^~~
+    VITIS_LOOP_286_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56164:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56171:5: warning: Added loop label VITIS_LOOP_293_1:   [xilinx-label-all-loops]
+    for (int i = 0; i < SIZE / res_T::size; i++) {
+    ^~~
+    VITIS_LOOP_293_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56171:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56173:9: warning: Added loop label VITIS_LOOP_295_2:   [xilinx-label-all-loops]
+        for (int j = 0; j < res_T::size; j++) {
+        ^~~
+        VITIS_LOOP_295_2: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56173:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56185:5: warning: Added loop label VITIS_LOOP_307_1:   [xilinx-label-all-loops]
+    for (int i = 0; i < SIZE / data_T::size; i++) {
+    ^~~
+    VITIS_LOOP_307_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56185:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56187:9: warning: Added loop label VITIS_LOOP_309_2:   [xilinx-label-all-loops]
+        for (int j = 0; j < data_T::size; j++) {
+        ^~~
+        VITIS_LOOP_309_2: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56187:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56202:5: warning: Added loop label VITIS_LOOP_324_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < nrows; ii++) {
+    ^~~
+    VITIS_LOOP_324_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56202:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56222:5: warning: Added loop label VITIS_LOOP_344_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < nrows; ii++) {
+    ^~~
+    VITIS_LOOP_344_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56222:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56223:9: warning: Added loop label VITIS_LOOP_345_2:   [xilinx-label-all-loops]
+        for (int jj = 0; jj < ncols; jj++) {
+        ^~~
+        VITIS_LOOP_345_2: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56223:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56238:5: warning: Added loop label VITIS_LOOP_360_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_IN; ii++) {
+    ^~~
+    VITIS_LOOP_360_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56238:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56245:5: warning: Added loop label VITIS_LOOP_367_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_IN; ii++) {
+    ^~~
+    VITIS_LOOP_367_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56245:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56368:2: warning: Added loop label VITIS_LOOP_31_1:   [xilinx-label-all-loops]
+ for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+ ^~~
+ VITIS_LOOP_31_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56368:2: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56380:5: warning: Added loop label VITIS_LOOP_43_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_43_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56380:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56394:5: warning: Added loop label VITIS_LOOP_57_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_57_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56394:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56421:5: warning: Added loop label VITIS_LOOP_84_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_84_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56421:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56451:5: warning: Added loop label VITIS_LOOP_114_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_114_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56451:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56488:5: warning: Added loop label VITIS_LOOP_151_1:   [xilinx-label-all-loops]
+    for (unsigned i = 0; i < CONFIG_T::table_size; i++) {
+    ^~~
+    VITIS_LOOP_151_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56488:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56499:5: warning: Added loop label VITIS_LOOP_162_1:   [xilinx-label-all-loops]
+    for (unsigned i = 0; i < CONFIG_T::table_size; i++) {
+    ^~~
+    VITIS_LOOP_162_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56499:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56532:5: warning: Added loop label VITIS_LOOP_195_1:   [xilinx-label-all-loops]
+    for (unsigned i = 0; i < CONFIG_T::n_in; i++) {
+    ^~~
+    VITIS_LOOP_195_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56532:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56546:5: warning: Added loop label VITIS_LOOP_209_2:   [xilinx-label-all-loops]
+    for (unsigned i = 0; i < CONFIG_T::n_in; i++) {
+    ^~~
+    VITIS_LOOP_209_2: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56546:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56580:5: warning: Added loop label VITIS_LOOP_243_1:   [xilinx-label-all-loops]
+    for (unsigned i = 0; i < CONFIG_T::n_in; i++) {
+    ^~~
+    VITIS_LOOP_243_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56580:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56589:5: warning: Added loop label VITIS_LOOP_252_2:   [xilinx-label-all-loops]
+    for (unsigned i = 0; i < CONFIG_T::n_in; i++) {
+    ^~~
+    VITIS_LOOP_252_2: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56589:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56603:5: warning: Added loop label VITIS_LOOP_266_3:   [xilinx-label-all-loops]
+    for (unsigned i = 0; i < CONFIG_T::n_in; i++) {
+    ^~~
+    VITIS_LOOP_266_3: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56603:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56610:5: warning: Added loop label VITIS_LOOP_273_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_273_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56610:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56623:5: warning: Added loop label VITIS_LOOP_286_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_286_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56623:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56660:5: warning: Added loop label VITIS_LOOP_323_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_323_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56660:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56665:5: warning: Added loop label VITIS_LOOP_328_2:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_328_2: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56665:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56666:9: warning: Added loop label VITIS_LOOP_329_3:   [xilinx-label-all-loops]
+        for (int jj = 0; jj < CONFIG_T::n_in; jj++) {
+        ^~~
+        VITIS_LOOP_329_3: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56666:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56683:5: warning: Added loop label VITIS_LOOP_346_4:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_346_4: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56683:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56696:5: warning: Added loop label VITIS_LOOP_359_1:   [xilinx-label-all-loops]
+    for (int i = 0; i < CONFIG_T::n_in; i++) {
+    ^~~
+    VITIS_LOOP_359_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56696:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56704:5: warning: Added loop label VITIS_LOOP_367_2:   [xilinx-label-all-loops]
+    for (int i = 1; i < CONFIG_T::n_in; i++) {
+    ^~~
+    VITIS_LOOP_367_2: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56704:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56739:5: warning: Added loop label VITIS_LOOP_402_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_402_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56739:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56769:5: warning: Added loop label VITIS_LOOP_432_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_432_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56769:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56788:2: warning: Added loop label VITIS_LOOP_451_1:   [xilinx-label-all-loops]
+ for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+ ^~~
+ VITIS_LOOP_451_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56788:2: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56804:5: warning: Added loop label VITIS_LOOP_467_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_467_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56804:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56822:5: warning: Added loop label VITIS_LOOP_485_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_485_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56822:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56839:5: warning: Added loop label VITIS_LOOP_502_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_502_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56839:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56856:5: warning: Added loop label VITIS_LOOP_519_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_519_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56856:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56886:5: warning: Added loop label VITIS_LOOP_549_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_549_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56886:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56905:5: warning: Added loop label VITIS_LOOP_568_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_568_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56905:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56935:5: warning: Added loop label VITIS_LOOP_598_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_598_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56935:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56954:5: warning: Added loop label VITIS_LOOP_617_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_617_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56954:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56984:5: warning: Added loop label VITIS_LOOP_647_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_647_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56984:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57011:5: warning: Added loop label VITIS_LOOP_674_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_674_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57011:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57040:5: warning: Added loop label VITIS_LOOP_703_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_703_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57040:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57061:5: warning: Added loop label VITIS_LOOP_724_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_724_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57061:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57079:5: warning: Added loop label VITIS_LOOP_742_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_742_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57079:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57099:5: warning: Added loop label VITIS_LOOP_762_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_762_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57099:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57195:9: warning: Added loop label VITIS_LOOP_73_1:   [xilinx-label-all-loops]
+        for (int i = 0; i < N / data_T::size; i++) {
+        ^~~
+        VITIS_LOOP_73_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57195:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57202:13: warning: Added loop label VITIS_LOOP_80_2:   [xilinx-label-all-loops]
+            for (int j = 0; j < data_T::size; j++) {
+            ^~~
+            VITIS_LOOP_80_2: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57202:13: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57211:9: warning: Added loop label VITIS_LOOP_89_3:   [xilinx-label-all-loops]
+        for (int i = 0; i < N / data_T::size; i++) {
+        ^~~
+        VITIS_LOOP_89_3: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57211:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57220:13: warning: Added loop label VITIS_LOOP_98_4:   [xilinx-label-all-loops]
+            for (int j = 0; j < pack_diff; j++) {
+            ^~~
+            VITIS_LOOP_98_4: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57220:13: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57224:17: warning: Added loop label VITIS_LOOP_102_5:   [xilinx-label-all-loops]
+                for (int k = 0; k < res_T::size; k++) {
+                ^~~
+                VITIS_LOOP_102_5: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57224:17: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57235:9: warning: Added loop label VITIS_LOOP_113_6:   [xilinx-label-all-loops]
+        for (int i = 0; i < N / data_T::size; i++) {
+        ^~~
+        VITIS_LOOP_113_6: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57235:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57239:13: warning: Added loop label VITIS_LOOP_117_7:   [xilinx-label-all-loops]
+            for (int j = 0; j < data_T::size; j++) {
+            ^~~
+            VITIS_LOOP_117_7: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57239:13: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57263:9: warning: Added loop label VITIS_LOOP_141_1:   [xilinx-label-all-loops]
+        for (int j = 0; j < n_dupl; j++) {
+        ^~~
+        VITIS_LOOP_141_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57263:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57267:13: warning: Added loop label VITIS_LOOP_145_2:   [xilinx-label-all-loops]
+            for (int k = 0; k < res_T::size; k++) {
+            ^~~
+            VITIS_LOOP_145_2: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57267:13: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57286:9: warning: Added loop label VITIS_LOOP_164_1:   [xilinx-label-all-loops]
+        for (int k = 0; k < res_T::size; k++) {
+        ^~~
+        VITIS_LOOP_164_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57286:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57309:2: warning: Added loop label VITIS_LOOP_187_1:   [xilinx-label-all-loops]
+ for (int i = 0; i < CONFIG_T::height * CONFIG_T::width / data_T::size; i++) {
+ ^~~
+ VITIS_LOOP_187_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57309:2: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57312:9: warning: Added loop label VITIS_LOOP_190_2:   [xilinx-label-all-loops]
+        for (int j = 0; j < data_T::size; j++) {
+        ^~~
+        VITIS_LOOP_190_2: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57312:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57317:5: warning: Added loop label VITIS_LOOP_195_3:   [xilinx-label-all-loops]
+    for (int i = 0; i < CONFIG_T::height * CONFIG_T::width / res_T::size; i++) {
+    ^~~
+    VITIS_LOOP_195_3: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57317:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57321:9: warning: Added loop label VITIS_LOOP_199_4:   [xilinx-label-all-loops]
+        for (int j = 0; j < res_T::size; j++) {
+        ^~~
+        VITIS_LOOP_199_4: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57321:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57535:9: warning: Added loop label VITIS_LOOP_213_1:   [xilinx-label-all-loops]
+        for (unsigned j = 0; j < data_T::size; j++) {
+        ^~~
+        VITIS_LOOP_213_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57535:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57544:9: warning: Added loop label VITIS_LOOP_222_2:   [xilinx-label-all-loops]
+        for (unsigned j = 0; j < data_T::size; j++) {
+        ^~~
+        VITIS_LOOP_222_2: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57544:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57650:5: warning: Added loop label VITIS_LOOP_328_1:   [xilinx-label-all-loops]
+    for (int i = 0; i < CONFIG_T::n_in / res_T::size; i++) {
+    ^~~
+    VITIS_LOOP_328_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57650:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57655:9: warning: Added loop label VITIS_LOOP_333_2:   [xilinx-label-all-loops]
+        for (int i = 0; i < res_T::size; i++) {
+        ^~~
+        VITIS_LOOP_333_2: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57655:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57663:9: warning: Added loop label VITIS_LOOP_341_3:   [xilinx-label-all-loops]
+        for (int i = 1; i < res_T::size; i++) {
+        ^~~
+        VITIS_LOOP_341_3: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57663:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:58893:9: warning: Added loop label VITIS_LOOP_64_1:   [xilinx-label-all-loops]
+        for (unsigned i = 0; i < __SHIFT_DEPTH__; ++i)
+        ^~~
+        VITIS_LOOP_64_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:58893:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:58900:9: warning: Added loop label VITIS_LOOP_71_1:   [xilinx-label-all-loops]
+        for (unsigned i = 0; i < __SHIFT_DEPTH__; ++i)
+        ^~~
+        VITIS_LOOP_71_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:58900:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59428:5: warning: Added loop label VITIS_LOOP_14_1:   [xilinx-label-all-loops]
+    for (unsigned k = 0; k < CONFIG_T::n_out; k++) {
+    ^~~
+    VITIS_LOOP_14_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59428:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59488:9: warning: Added loop label VITIS_LOOP_74_1:   [xilinx-label-all-loops]
+        for (int im = 0; im < CONFIG_T::n_out; im++) {
+        ^~~
+        VITIS_LOOP_74_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59488:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59639:2: warning: Added loop label VITIS_LOOP_27_1:   [xilinx-label-all-loops]
+ for (int i = 0; i < CONFIG_T::new_height; i++) {
+ ^~~
+ VITIS_LOOP_27_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59639:2: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59640:9: warning: Added loop label VITIS_LOOP_28_2:   [xilinx-label-all-loops]
+        for (int j = 0; j < CONFIG_T::new_width; j++) {
+        ^~~
+        VITIS_LOOP_28_2: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59640:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59643:13: warning: Added loop label VITIS_LOOP_31_3:   [xilinx-label-all-loops]
+            for (int k = 0; k < CONFIG_T::n_chan; k++) {
+            ^~~
+            VITIS_LOOP_31_3: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59643:13: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59740:2: warning: Added loop label VITIS_LOOP_20_1:   [xilinx-label-all-loops]
+ for (int j = 0; j < CONFIG_T::n_chan; j++) {
+ ^~~
+ VITIS_LOOP_20_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59740:2: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59741:9: warning: Added loop label VITIS_LOOP_21_2:   [xilinx-label-all-loops]
+        for (int i = 0; i < CONFIG_T::pad_left; i++) {
+        ^~~
+        VITIS_LOOP_21_2: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59741:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59745:9: warning: Added loop label VITIS_LOOP_25_3:   [xilinx-label-all-loops]
+        for (int i = 0; i < CONFIG_T::in_width; i++) {
+        ^~~
+        VITIS_LOOP_25_3: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59745:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59749:9: warning: Added loop label VITIS_LOOP_29_4:   [xilinx-label-all-loops]
+        for (int i = 0; i < CONFIG_T::pad_right; i++) {
+        ^~~
+        VITIS_LOOP_29_4: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59749:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59759:2: warning: Added loop label VITIS_LOOP_39_1:   [xilinx-label-all-loops]
+ for (int i = 0; i < CONFIG_T::pad_left; i++) {
+ ^~~
+ VITIS_LOOP_39_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59759:2: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59760:9: warning: Added loop label VITIS_LOOP_40_2:   [xilinx-label-all-loops]
+        for (int j = 0; j < CONFIG_T::n_chan; j++) {
+        ^~~
+        VITIS_LOOP_40_2: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59760:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59765:5: warning: Added loop label VITIS_LOOP_45_3:   [xilinx-label-all-loops]
+    for (int i = 0; i < CONFIG_T::in_width; i++) {
+    ^~~
+    VITIS_LOOP_45_3: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59765:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59766:9: warning: Added loop label VITIS_LOOP_46_4:   [xilinx-label-all-loops]
+        for (int j = 0; j < CONFIG_T::n_chan; j++) {
+        ^~~
+        VITIS_LOOP_46_4: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59766:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59771:5: warning: Added loop label VITIS_LOOP_51_5:   [xilinx-label-all-loops]
+    for (int i = 0; i < CONFIG_T::pad_right; i++) {
+    ^~~
+    VITIS_LOOP_51_5: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59771:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59772:9: warning: Added loop label VITIS_LOOP_52_6:   [xilinx-label-all-loops]
+        for (int j = 0; j < CONFIG_T::n_chan; j++) {
+        ^~~
+        VITIS_LOOP_52_6: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59772:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59795:2: warning: Added loop label VITIS_LOOP_75_1:   [xilinx-label-all-loops]
+ for (int k = 0; k < CONFIG_T::n_chan; k++) {
+ ^~~
+ VITIS_LOOP_75_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59795:2: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59797:9: warning: Added loop label VITIS_LOOP_77_2:   [xilinx-label-all-loops]
+        for (int i = 0; i < CONFIG_T::pad_top; i++) {
+        ^~~
+        VITIS_LOOP_77_2: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59797:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59798:13: warning: Added loop label VITIS_LOOP_78_3:   [xilinx-label-all-loops]
+            for (int j = 0; j < CONFIG_T::out_width; j++) {
+            ^~~
+            VITIS_LOOP_78_3: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59798:13: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59803:9: warning: Added loop label VITIS_LOOP_83_4:   [xilinx-label-all-loops]
+        for (int i = 0; i < CONFIG_T::in_height; i++) {
+        ^~~
+        VITIS_LOOP_83_4: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59803:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59804:13: warning: Added loop label VITIS_LOOP_84_5:   [xilinx-label-all-loops]
+            for (int j = 0; j < CONFIG_T::pad_left; j++) {
+            ^~~
+            VITIS_LOOP_84_5: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59804:13: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59807:13: warning: Added loop label VITIS_LOOP_87_6:   [xilinx-label-all-loops]
+            for (int j = 0; j < CONFIG_T::in_width; j++) {
+            ^~~
+            VITIS_LOOP_87_6: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59807:13: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59810:13: warning: Added loop label VITIS_LOOP_90_7:   [xilinx-label-all-loops]
+            for (int j = 0; j < CONFIG_T::pad_right; j++) {
+            ^~~
+            VITIS_LOOP_90_7: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59810:13: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59815:9: warning: Added loop label VITIS_LOOP_95_8:   [xilinx-label-all-loops]
+        for (int i = 0; i < CONFIG_T::pad_bottom; i++) {
+        ^~~
+        VITIS_LOOP_95_8: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59815:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59816:13: warning: Added loop label VITIS_LOOP_96_9:   [xilinx-label-all-loops]
+            for (int j = 0; j < CONFIG_T::out_width; j++) {
+            ^~~
+            VITIS_LOOP_96_9: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59816:13: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59828:2: warning: Added loop label VITIS_LOOP_108_1:   [xilinx-label-all-loops]
+ for (int i = 0; i < CONFIG_T::pad_top; i++) {
+ ^~~
+ VITIS_LOOP_108_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59828:2: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59829:9: warning: Added loop label VITIS_LOOP_109_2:   [xilinx-label-all-loops]
+        for (int j = 0; j < CONFIG_T::out_width; j++) {
+        ^~~
+        VITIS_LOOP_109_2: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59829:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59830:13: warning: Added loop label VITIS_LOOP_110_3:   [xilinx-label-all-loops]
+            for (int k = 0; k < CONFIG_T::n_chan; k++) {
+            ^~~
+            VITIS_LOOP_110_3: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59830:13: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59836:5: warning: Added loop label VITIS_LOOP_116_4:   [xilinx-label-all-loops]
+    for (int i = 0; i < CONFIG_T::in_height; i++) {
+    ^~~
+    VITIS_LOOP_116_4: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59836:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59837:9: warning: Added loop label VITIS_LOOP_117_5:   [xilinx-label-all-loops]
+        for (int j = 0; j < CONFIG_T::pad_left; j++) {
+        ^~~
+        VITIS_LOOP_117_5: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59837:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59838:13: warning: Added loop label VITIS_LOOP_118_6:   [xilinx-label-all-loops]
+            for (int k = 0; k < CONFIG_T::n_chan; k++) {
+            ^~~
+            VITIS_LOOP_118_6: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59838:13: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59842:9: warning: Added loop label VITIS_LOOP_122_7:   [xilinx-label-all-loops]
+        for (int j = 0; j < CONFIG_T::in_width; j++) {
+        ^~~
+        VITIS_LOOP_122_7: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59842:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59843:13: warning: Added loop label VITIS_LOOP_123_8:   [xilinx-label-all-loops]
+            for (int k = 0; k < CONFIG_T::n_chan; k++) {
+            ^~~
+            VITIS_LOOP_123_8: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59843:13: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59847:9: warning: Added loop label VITIS_LOOP_127_9:   [xilinx-label-all-loops]
+        for (int j = 0; j < CONFIG_T::pad_right; j++) {
+        ^~~
+        VITIS_LOOP_127_9: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59847:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59848:13: warning: Added loop label VITIS_LOOP_128_10:   [xilinx-label-all-loops]
+            for (int k = 0; k < CONFIG_T::n_chan; k++) {
+            ^~~
+            VITIS_LOOP_128_10: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59848:13: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59854:5: warning: Added loop label VITIS_LOOP_134_11:   [xilinx-label-all-loops]
+    for (int i = 0; i < CONFIG_T::pad_bottom; i++) {
+    ^~~
+    VITIS_LOOP_134_11: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59854:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59855:9: warning: Added loop label VITIS_LOOP_135_12:   [xilinx-label-all-loops]
+        for (int j = 0; j < CONFIG_T::out_width; j++) {
+        ^~~
+        VITIS_LOOP_135_12: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59855:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59856:13: warning: Added loop label VITIS_LOOP_136_13:   [xilinx-label-all-loops]
+            for (int k = 0; k < CONFIG_T::n_chan; k++) {
+            ^~~
+            VITIS_LOOP_136_13: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59856:13: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59877:5: warning: Added loop label VITIS_LOOP_11_1:   [xilinx-label-all-loops]
+    for (int c = 0; c < CONFIG_T::n_chan; c++) {
+    ^~~
+    VITIS_LOOP_11_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59877:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59888:5: warning: Added loop label VITIS_LOOP_22_1:   [xilinx-label-all-loops]
+    for (int c = 0; c < CONFIG_T::n_chan; c++) {
+    ^~~
+    VITIS_LOOP_22_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59888:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59964:5: warning: Added loop label VITIS_LOOP_13_1:   [xilinx-label-all-loops]
+    for (int i = 1; i < N; i++) {
+    ^~~
+    VITIS_LOOP_13_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59964:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59973:5: warning: Added loop label VITIS_LOOP_22_1:   [xilinx-label-all-loops]
+    for (int i = 0; i < N; i++) {
+    ^~~
+    VITIS_LOOP_22_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59973:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59985:5: warning: Added loop label VITIS_LOOP_34_1:   [xilinx-label-all-loops]
+    for (int i = 0; i < N; i++) {
+    ^~~
+    VITIS_LOOP_34_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59985:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59997:5: warning: Added loop label VITIS_LOOP_46_1:   [xilinx-label-all-loops]
+    for (int i = 0; i < N; i++) {
+    ^~~
+    VITIS_LOOP_46_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59997:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60065:5: warning: Added loop label VITIS_LOOP_114_1:   [xilinx-label-all-loops]
+    for (int ff = 0; ff < CONFIG_T::n_filt; ff++) {
+    ^~~
+    VITIS_LOOP_114_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60065:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60067:9: warning: Added loop label VITIS_LOOP_116_2:   [xilinx-label-all-loops]
+        for (int ii = 0; ii < padded_width; ii += CONFIG_T::stride_width) {
+        ^~~
+        VITIS_LOOP_116_2: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60067:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60072:13: warning: Added loop label VITIS_LOOP_121_3:   [xilinx-label-all-loops]
+            for (int jj = 0; jj < CONFIG_T::stride_width; jj++) {
+            ^~~
+            VITIS_LOOP_121_3: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60072:13: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60106:2: warning: Added loop label VITIS_LOOP_155_1:   [xilinx-label-all-loops]
+ for (int ff = 0; ff < CONFIG_T::n_filt; ff++) {
+ ^~~
+ VITIS_LOOP_155_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60106:2: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60108:9: warning: Added loop label VITIS_LOOP_157_2:   [xilinx-label-all-loops]
+        for (int jj = 0; jj < CONFIG_T::n_in; jj++) {
+        ^~~
+        VITIS_LOOP_157_2: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60108:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60162:5: warning: Added loop label VITIS_LOOP_211_1:   [xilinx-label-all-loops]
+    for (int ff = 0; ff < CONFIG_T::n_filt; ff++) {
+    ^~~
+    VITIS_LOOP_211_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60162:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60164:9: warning: Added loop label VITIS_LOOP_213_2:   [xilinx-label-all-loops]
+        for (int ii = 0; ii < padded_height; ii += CONFIG_T::stride_height) {
+        ^~~
+        VITIS_LOOP_213_2: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60164:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60166:13: warning: Added loop label VITIS_LOOP_215_3:   [xilinx-label-all-loops]
+            for (int jj = 0; jj < padded_width; jj += CONFIG_T::stride_width) {
+            ^~~
+            VITIS_LOOP_215_3: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60166:13: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60171:17: warning: Added loop label VITIS_LOOP_220_4:   [xilinx-label-all-loops]
+                for (int kk = 0; kk < CONFIG_T::stride_height; kk++) {
+                ^~~
+                VITIS_LOOP_220_4: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60171:17: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60173:21: warning: Added loop label VITIS_LOOP_222_5:   [xilinx-label-all-loops]
+                    for (int ll = 0; ll < CONFIG_T::stride_width; ll++) {
+                    ^~~
+                    VITIS_LOOP_222_5: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60173:21: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60221:5: warning: Added loop label VITIS_LOOP_270_1:   [xilinx-label-all-loops]
+    for (int ff = 0; ff < CONFIG_T::n_filt; ff++) {
+    ^~~
+    VITIS_LOOP_270_1: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60221:5: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60223:9: warning: Added loop label VITIS_LOOP_272_2:   [xilinx-label-all-loops]
+        for (int ii = 0; ii < padded_height; ii += CONFIG_T::stride_height) {
+        ^~~
+        VITIS_LOOP_272_2: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60223:9: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60225:13: warning: Added loop label VITIS_LOOP_274_3:   [xilinx-label-all-loops]
+            for (int jj = 0; jj < padded_width; jj += CONFIG_T::stride_width) {
+            ^~~
+            VITIS_LOOP_274_3: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60225:13: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60230:17: warning: Added loop label VITIS_LOOP_279_4:   [xilinx-label-all-loops]
+                for (int kk = 0; kk < CONFIG_T::stride_height; kk++) {
+                ^~~
+                VITIS_LOOP_279_4: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60230:17: note: FIX-IT applied suggested code changes
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60232:21: warning: Added loop label VITIS_LOOP_281_5:   [xilinx-label-all-loops]
+                    for (int ll = 0; ll < CONFIG_T::stride_width; ll++) {
+                    ^~~
+                    VITIS_LOOP_281_5: 
+/mnt/c/Users/aleon/Documents/School/Tron/3B-SUTD/1_Digital_Systems_Lab/fpga-audio-autoencoder/hls_output/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:60232:21: note: FIX-IT applied suggested code changes
